@@ -25,11 +25,11 @@ A simulation-based disaster response system with an interactive dashboard and sc
 tar -xzf disaster-response-system-v3-final.tar.gz
 cd disaster-response-system
 
-pip install streamlit folium streamlit-folium plotly pandas numpy scipy shapely networkx pydantic python-dotenv geojson matplotlib
-
 python -m venv venv
 
 venv\Scripts\activate
+
+pip install streamlit folium streamlit-folium plotly pandas numpy scipy shapely networkx pydantic python-dotenv geojson matplotlib
 
 python -m streamlit run dashboard/app.py
 
