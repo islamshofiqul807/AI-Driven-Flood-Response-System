@@ -11,7 +11,7 @@ A simulation-based disaster response system with an interactive dashboard and sc
 - 📊 Interactive dashboard using Streamlit  
 - 🗺️ Map visualization with Folium  
 - 📈 Data analysis with Pandas, NumPy, SciPy  
-- 🔗 Network modeling using NetworkX  
+- 🔗 Network modeling using NetworkX   
 - 📦 Scenario-based simulation (S1, S2, S3, etc.)  
 - ⚙️ CLI and dashboard execution modes  
 
